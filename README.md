@@ -32,3 +32,20 @@ Commands used:
 `pwd` `ls` `cd` `mkdir` `touch` `cat` `echo`
 
 More exercises and topics will be added as I continue learning.
+
+### Day 2 — Files and Permissions ✅
+
+Practiced working with files and Linux permissions.
+
+Commands used:
+
+`ls -l` `chmod` `cp` `mv` `rm`
+
+Learned the basics of:
+
+- Read (`r`)
+- Write (`w`)
+- Execute (`x`) permissions
+- Changing permissions with `chmod`
+
+More exercises and topics will be added as I continue learning.
